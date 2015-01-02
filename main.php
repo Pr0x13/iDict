@@ -59,10 +59,8 @@ while (!feof($file_handle)) {
 $ch = curl_init();    
 
 $line_of_text = fgets($file_handle); 
-$line_of_text = rtrim($line_of_text);
+$password = rtrim($line_of_text);
   
-$password = $line_of_text;
-
 $payload =
 '<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
