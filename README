@@ -12,6 +12,7 @@ Navigate to http://127.0.0.1/iDict/ in your web browser (preferably Firefox, Chr
 Wordlist.txt is from iBrute and it satisfies iCloud password Requirements
 It's been reported if icloud server responds with an error restart xampp or your computer
 
+-=Reports coming in that Server is now Patched with Rate Limiter=-
 
 
 What is this?
