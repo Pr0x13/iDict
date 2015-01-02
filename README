@@ -1,0 +1,36 @@
+Disclaimer: Do whatever you want with this code as long as you give me credit (@Pr0x13) 
+Check and make sure its legal in your country to use this tool before doing so.
+I'm not responsible for any damage done whatsoever to anyones iCloud account or iDevice.
+I Didn't exploit any accounts while writing this, as well i didn't even test it out (Hope it works lol).
+I merely observerd and reported.
+
+
+Install:
+Put in HtDocs Folder in your Xampp installation.
+Install cUrl for your OS
+Navigate to http://127.0.0.1/iDict/ in your web browser (preferably Firefox, Chrome, or Safari).
+Wordlist.txt is from iBrute and it satisfies iCloud password Requirements
+
+
+
+
+What is this?
+A 100% Working iCloud Apple ID Dictionary attack that bypasses 
+Account Lockout restrictions and Secondary Authentication on any account.
+
+
+                                                                      
+
+What this isn't:
+A bypass or fully automated removal
+
+
+
+
+Why? 
+This bug is painfully obvious and was only a matter of time before it was 
+privately used for malicious or nefarious activities, I publicly disclosed it so apple will patch it.
+
+
+@Pr0x13
+
