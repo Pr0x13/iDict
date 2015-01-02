@@ -5,14 +5,21 @@ I Didn't exploit any accounts while writing this, as well i didn't even test it 
 I merely observed and reported.
 
 
-Install:
+Install: 
 Put in HtDocs Folder in your Xampp installation.
 Install cUrl for your OS
 Navigate to http://127.0.0.1/iDict/ in your web browser (preferably Firefox, Chrome, or Safari).
 Wordlist.txt is from iBrute and it satisfies iCloud password Requirements
 It's been reported if icloud server responds with an error restart xampp or your computer
 
+
+
+
 -=Reports coming in that Server is now Patched with Rate Limiter=-
+-=Server Fully Patched, Discontinue use if you don't want to lock your account!!=-
+
+
+
 
 
 What is this?
