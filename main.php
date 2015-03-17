@@ -45,7 +45,7 @@ ini_set('max_execution_time', 0); //no server timeout limit ?>
 
 <?php
 
-$appleid = $_REQUEST['paul canson'];        
+$appleid = $_REQUEST['paulytek@gmail.com'];        
 
 $plist = file_get_contents('./files/config.plist');
 $xml = simplexml_load_string($plist);
