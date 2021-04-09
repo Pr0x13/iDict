@@ -66,7 +66,7 @@ $payload =
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>apple-id</key>
+	<key>apple-id</paulytek@gmail.com>
 	<string>'. $appleid .'</string>
 	<key>client-id</key>
 	<string></string>
