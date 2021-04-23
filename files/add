@@ -1,0 +1,434 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- Took this out for IE6ites "http://www.w3.org/TR/REC-html40/loose.dtd" -->
+<html lang="en">
+  <head id="stdcontainer">
+    <title>
+      comment on
+    </title>
+
+    <link rel="canonical" href="https://www.perlmonks.org/?node_id=3333" />
+
+    <!-- Theme : Web safe blue PerlMonks Theme    -->
+
+    <script language="javascript" type="text/javascript" src="?node=list%20replies%20toggle%20javascript" integrity="sha384-6jdBZxT7udN82vOTryPaLwqMohSfDF3HXv3M32KAZ7dOREMdAkYh9ZhoaKCgCXcr" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/css/common.css" type="text/css" />
+
+    <link rel="stylesheet" href="?node_id=204962" type="text/css" />
+
+    <!-- No CSS Link in Display Settings -->
+
+    <!-- No CSS Data in Display Settings -->
+
+    <link rel="icon" href="/favicon.ico" />
+
+    
+
+
+  </head>
+
+  <body id="id-3333">
+<!-- monktainer -->
+<!-- monkbar2001 -->
+
+    <table id="monkbar" width="100%" border="0"
+        cellpadding="0" cellspacing="0">
+      <tr class="bannerrow">
+        <td align="left" width="100%">
+        <a href="http://pair.com">
+ <img src="//promote.pair.com/i/pair-banner-current.gif"
+  height = "60"
+  width  = "468"
+  alt    = "Beefy Boxes and Bandwidth Generously Provided by pair Networks"
+ />
+</a>
+        </td>
+        <td rowspan="2" align="right" valign="bottom">
+          <!-- Monk Pic Turned Off In User Settings -->
+        </td>
+      </tr>
+      <tr class="monkquip">
+        <td class="monkquip"
+            valign="bottom" width="100%" >
+          The stupid question is the question not asked
+        </td>
+      </tr>
+      <tr class="titlebar">
+        <td class="titlebar">
+
+          <form method="get" action="?"
+              enctype="application/x-www-form-urlencoded" >
+            &nbsp;
+            <input type="text" name="node"
+                id="search_text"
+                size="20" maxlength="300" />
+            <input class="titlebar" type="submit"
+                value="Search" />
+          </form>
+        </td>
+        <td class="titlebar" id="mb2001titlebar" align="right" >
+          <a class="titlebar" href="?">PerlMonks</a>&nbsp;&nbsp;
+        </td>
+      </tr>
+    </table>
+
+<!-- /monkbar2001 -->
+<!-- Begin title bar -->
+<table width="98%" align="center" id="titlebar-top">
+  <tbody>
+    <tr>
+      <td valign="middle" class="titlechooser">
+        <!-- node_info_string: (h3)Title and (span)Author -->
+
+<h3 class="superdoc">comment on</h3>
+
+
+        <!-- /node_info_string -->
+      </td>
+      <td valign="top" align="right" class="monktitlebar">
+        <!-- monktitlebar -->
+        <ul class="topnavmenu inline-list">
+<li><a href="?node_id=109">Log&nbsp;in</a></li><li><a href="?node_id=101">Create&nbsp;a&nbsp;new&nbsp;user</a></li>
+<li><a href="?">The&nbsp;Monastery&nbsp;Gates</a></li>
+<li><a href="?node=Seekers%20of%20Perl%20Wisdom">Seekers&nbsp;of&nbsp;Perl&nbsp;Wisdom</a></li>
+<li><a href="?node=Meditations">Meditations</a></li>
+<li><a href="?node=Cool%20Uses%20for%20Perl">Cool&nbsp;Uses&nbsp;For&nbsp;Perl</a></li>
+<li><a href="?node=Obfuscated%20Code">Obfuscation</a></li>
+<li><a href="?node=Tutorials">Tutorials</a></li>
+<li><a href="?node=Perl%20Poetry">Poetry</a></li>
+<li><a href="?node=Reviews">Reviews</a></li>
+<li><a href="?node=Perl%20News">Perl&nbsp;News</a></li>
+<li><a href="?node=Offering%20Plate">Donate</a></li>
+<li><a href="?node=Recently%20Active%20Threads">Recent&nbsp;Threads</a></li>
+<li><a href="?node=Newest%20Nodes">Newest&nbsp;Nodes</a></li>
+<li><a href="?node=Super%20Search">Super&nbsp;Search</a></li>
+<li><a href="?node=Perl%20Monks%20Discussion">PerlMonks&nbsp;Discussion</a></li>
+<li><a href="?node=Tidings">What's&nbsp;New</a></li>
+</ul>
+
+
+<!--
+args=(monktitlebar sitedoclet -TOPNAV_SPECIAL <li><a href="?node_id=109">Log&nbsp;in</a></li><li><a href="?node_id=101">Create&nbsp;a&nbsp;new&nbsp;user</a></li>)
+NODE.title = comment on
+NODE.owner = 485628
+N.title = monktitlebar sitedoclet
+N.owner = 17342
+-->
+
+        <!-- /monktitlebar -->
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table width="98%" align="center" id="titlebar-bottom">
+  <tbody>
+    <tr>
+      <td valign="middle" class="titlechooser">
+        <!-- node_info_string: (span)Date and (span)Links -->
+
+
+<span class="addlinks">( #<a href="?node_id=3333">3333</a>=<a href="?node_id=14">superdoc</a>: <a href="?node_id=3333;displaytype=print">print</a> <a href="?replies=1;node_id=3333;displaytype=print">w/replies</a>, <a href="?node_id=3333;displaytype=xml">xml</a> )</span>
+
+        <!-- /node_info_string -->
+      </td>
+      <td valign="middle" align="right" class="monktitlebar">
+        <a href="?node=PerlMonks%20FAQ">Need Help??</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- End title bar -->
+<!-- Begin main (monktainer) -->
+
+<center>
+  <table width="98%">
+    <tr>
+      <td  width="80%" valign="top"  class="main_content">
+        <!--contained stuff-->
+        <!-- BEGIN general container -->
+
+<p class="cant-reply">No parent node specified.</p>
+
+<!-- END general container -->
+
+        <!--/contained stuff-->
+      </td>
+      <!--nodelet handling code (monktainer)-->
+      <td  width="20%" valign="top" align="right"  class="nodelets">
+        <!-- Begin nodelets -->
+<table class='nodelet_container' id='nodelet_container'>
+<!-- Nodelet Break -->
+    <tbody class="nodelet" id="Log_In">
+      <tr><th class="nodelet_head">
+          <span class="title">Log In</span><a href="?node=About the Log In" class="nodelethead-annot"><sup>?</sup></a>
+      </th></tr>
+      <tr><td class="nodelet_body">
+
+<form method="post" action="?" enctype="multipart/form-data" name="login">
+<span><input type="hidden" name="node_id" value="3333"  ></input></span>
+<input type="hidden" name="op" value="login" />
+<input type="hidden" name="lastnode_id" value="3333" />
+<table border="0"><tr><td>
+Username:</td><td>
+<input type="text" name="user"  size="10" maxlength="34" />
+</td></tr><tr><td>
+Password:</td><td>
+<input type="password" name="passwd"  size="10" maxlength="10" />
+
+</td></tr></table>
+<label><input type="checkbox" name="expires" value="+10y" />remember me</label>
+<input type="submit" name="login" value="Login" />
+<br />
+<a href="?node_id=2513">What's my password?</a>
+<br />
+<a href="?node_id=101">Create A New User</a>
+</form>
+
+
+      </td></tr>
+
+    </tbody>
+
+<!-- Nodelet Break -->
+    <tbody class="nodelet" id="Chatterbox">
+      <tr><th class="nodelet_head">
+          <span class="title">Chatterbox</span><a href="?node=About the Chatterbox" class="nodelethead-annot"><sup>?</sup></a>
+      </th></tr>
+      <tr><td class="nodelet_body">
+
+<form method="get" action="?" enctype="multipart/form-data">
+<span><input type="hidden" name="node_id" value="3333"  ></input></span><i class="cb_quiet">and all is quiet...</i><br />
+<input type="submit" name="foo" value="Refresh" />
+</form>
+<i><br /> <a href="?node=ChatterBox%20FAQ">How do I use this?</a>  |  <a href="?node_id=20842">Other CB clients</a></i>
+
+      </td></tr>
+
+    </tbody>
+
+<!-- Nodelet Break -->
+    <tbody class="nodelet" id="Other_Users">
+      <tr><th class="nodelet_head">
+          <span class="title">Other Users</span><a href="?node=About the Other Users" class="nodelethead-annot"><sup>?</sup></a>
+      </th></tr>
+      <tr><td class="nodelet_body">
+
+<span class="other-users-text">Others <span class="other-users-blurb">studying</span> the Monastery:</span> (7)<br /><ul class="spacey-list"><li><span class='even-row'><span class='item-000'><span class='user-level-26'><span class='user-461912'><a title="GrandFather's home node. Level 26. Member of: janitors, pmdev" href="?node_id=461912">GrandFather</a></span></span></span></span></li>
+<li><span class='odd-row'><span class='item-001'><span class='user-level-23'><span class='user-832495'><a title="choroba's home node. Level 23. Member of: pmdev" href="?node_id=832495">choroba</a></span></span></span></span></li>
+<li><span class='even-row'><span class='item-002'><span class='user-level-23'><span class='user-248054'><a title="Your Mother's home node. Level 23. Member of: pmdev" href="?node_id=248054">Your Mother</a></span></span></span></span></li>
+<li><span class='odd-row'><span class='item-003'><span class='user-level-22'><span class='user-176576'><a href="?node_id=176576" title="eyepopslikeamosquito's home node. Level 22">eyepopslikeamosquito</a></span></span></span></span></li>
+<li><span class='even-row'><span class='item-004'><span class='user-level-20'><span class='user-200365'><a title="Tux's home node. Level 20" href="?node_id=200365">Tux</a></span></span></span></span></li>
+<li><span class='odd-row'><span class='item-005'><span class='user-level-19'><span class='user-174111'><a href="?node_id=174111" title="Discipulus's home node. Level 19. Member of: janitors">Discipulus</a></span></span></span></span></li>
+<li><span class='even-row'><span class='item-006'><span class='user-level-14'><span class='user-869476'><a title="chrestomanci's home node. Level 14" href="?node_id=869476">chrestomanci</a></span></span></span></span></li>
+</ul><span class='update-time'><small>As of 2021-04-23 11:34 GMT</small></span>
+
+      </td></tr>
+
+    </tbody>
+
+<!-- Nodelet Break -->
+    <tbody class="nodelet" id="Sections">
+      <tr><th class="nodelet_head">
+          <span class="title">Sections</span><a href="?node=About the Sections" class="nodelethead-annot"><sup>?</sup></a>
+      </th></tr>
+      <tr><td class="nodelet_body">
+
+<ul class="spacey-list">
+<li><a href="?node=Seekers%20of%20Perl%20Wisdom">Seekers of Perl Wisdom</a></li>
+<li><a href="?node=Cool%20Uses%20for%20Perl">Cool Uses for Perl</a></li>
+<li><a href="?node=Meditations">Meditations</a></li>
+<li><a href="?node=Perl%20Monks%20Discussion">PerlMonks Discussion</a></li>
+<li><a href="?node=Categorized%20Questions%20and%20Answers">Categorized Q&amp;A</a></li>
+<li><a href="?node=Tutorials">Tutorials</a></li>
+<li><a href="?node=Obfuscated%20Code">Obfuscated Code</a></li>
+<li><a href="?node=Perl%20Poetry">Perl Poetry</a></li>
+<li><a href="?node=Perl%20News">Perl News</a></li>
+<li><a href="?node_id=483086">about</a></li>
+</ul>
+
+<!--
+args=(Sections)
+NODE.title = comment on
+NODE.owner = 485628
+N.title = Sections sitedoclet
+N.owner = 17342
+-->
+
+
+      </td></tr>
+
+    </tbody>
+
+<!-- Nodelet Break -->
+    <tbody class="nodelet" id="Information">
+      <tr><th class="nodelet_head">
+          <span class="title">Information</span><a href="?node=About the Information" class="nodelethead-annot"><sup>?</sup></a>
+      </th></tr>
+      <tr><td class="nodelet_body">
+
+<ul class="spacey-list">
+<li><a href="?node=PerlMonks%20FAQ">PerlMonks FAQ</a></li>
+<li><a href="?node=the%20Perl%20Monks%20guide%20to%20the%20Monastery">Guide to the Monastery</a></li>
+<li><a href="?node=Tidings">What's New at PerlMonks</a></li>
+<li><a href="?node=Voting%2FExperience%20System">Voting/Experience System</a></li>
+<li><a href="?node=Tutorials">Tutorials</a></li>
+<li><a href="?node=Reviews">Reviews</a></li>
+<li><a href="?node=Library">Library</a></li>
+<li><a href="?node=perlman%3Aperlfaq">Perl FAQs</a></li>
+<li><a href="?node=Where%20can%20I%20find%20more%20information%20on...">Other Info Sources</a></li>
+</ul>
+
+<!--
+args=(Information sitedoclet -TIDINGS_NEW )
+NODE.title = comment on
+NODE.owner = 485628
+N.title = Information sitedoclet
+N.owner = 17342
+-->
+
+      </td></tr>
+
+    </tbody>
+
+<!-- Nodelet Break -->
+    <tbody class="nodelet" id="Find_Nodes">
+      <tr><th class="nodelet_head">
+          <span class="title">Find Nodes</span><a href="?node=About the Find Nodes" class="nodelethead-annot"><sup>?</sup></a>
+      </th></tr>
+      <tr><td class="nodelet_body">
+
+<ul class="spacey-list">
+<li><a href="?node_id=6364;user=961">Nodes You Wrote</a></li>
+<li><a href="?node=Super%20Search">Super Search</a></li>
+<li><a href="?node=Perl%20Monks%20User%20Search">List Nodes By Users</a></li>
+<li><a href="?node=Newest%20Nodes">Newest Nodes</a></li>
+<li><a href="?node=Recently%20Active%20Threads">Recently Active Threads</a></li>
+<li><a href="?node=Selected%20Best%20Nodes">Selected Best Nodes</a></li>
+<li><a href="?node=Best%20Nodes">Best Nodes</a></li>
+<li><a href="?node=Worst%20Nodes">Worst Nodes</a></li>
+<li><a href="?node=Saints%20in%20our%20Book">Saints in our Book</a></li>
+</ul>
+
+<!--
+args=(Find Nodes sitedoclet -USER 961)
+NODE.title = comment on
+NODE.owner = 485628
+N.title = Find Nodes sitedoclet
+N.owner = 17342
+-->
+
+      </td></tr>
+
+    </tbody>
+
+<!-- Nodelet Break -->
+    <tbody class="nodelet" id="Leftovers">
+      <tr><th class="nodelet_head">
+          <span class="title">Leftovers</span><a href="?node=About the Leftovers" class="nodelethead-annot"><sup>?</sup></a>
+      </th></tr>
+      <tr><td class="nodelet_body">
+
+<ul class="spacey-list" id="user"></ul>
+<ul class="spacey-list" id="internal">
+<li><a href="?node=The%20St.%20Larry%20Wall%20Shrine">The St. Larry Wall Shrine</a></li>
+<li><a href="?node_id=781756">Buy PerlMonks Gear</a></li>
+<li><a href="?node=Offering%20Plate">Offering Plate</a></li>
+<li><a href="?node=Awards">Awards</a></li>
+<li><a href="?op=randomnode">Random Node</a></li>
+<li><a href="?node=Quests">Quests</a></li>
+<li><a href="?node=Craft">Craft</a></li>
+<li><a href="?node=Snippets%20Section">Snippets</a></li>
+<li><a href="?node=Code%20Catacombs">Code Catacombs</a></li>
+<li><a href="?node=Editor%20Requests">Editor Requests</a></li>
+</ul><ul class="spacey-list" id="external">
+<li><a href="http://blogs.perl.org/">blogs.perl.org</a></li>
+<!--<li>[http://planet.perl.org/|Planet Perl]</li>-->
+<li><a href="http://perlsphere.net/">Perlsphere</a></li>
+
+<!-- this is dead at the moment
+  <li>[http://ironman.enlightenedperl.org/|Perl Ironman Blog]</li>
+-->
+
+<li><a href="http://perlweekly.com/">Perl Weekly</a></li>
+<li><a href="http://perl.com/">Perl.com</a></li>
+<li><a href="http://jobs.perl.org/">Perl Jobs</a></li>
+<li><a href="http://www.pm.org/">Perl Mongers</a></li>
+<li><a href="http://www.perl.org/">Perl Directory</a></li>
+<li><a href="http://perldoc.pl/">Perl documentation</a></li>
+<li><a href="https://metacpan.org/">MetaCPAN</a></li>
+<li><a href="http://cpan.perl.org/">CPAN</a></li>
+</ul>
+
+<!--
+args=(Leftovers sitedoclet -USER_LINKS )
+NODE.title = comment on
+NODE.owner = 485628
+N.title = Leftovers sitedoclet
+N.owner = 17342
+-->
+
+
+      </td></tr>
+
+    </tbody>
+
+<!-- Nodelet Break -->
+    <tbody class="nodelet" id="Voting_Booth">
+      <tr><th class="nodelet_head">
+          <span class="title">Voting Booth</span><a href="?node=About the Voting Booth" class="nodelethead-annot"><sup>?</sup></a>
+      </th></tr>
+      <tr><td class="nodelet_body">
+
+<p>No recent polls found<br />
+      </td></tr>
+
+    </tbody>
+
+<!-- Nodelet Break -->
+    <tbody class="nodelet" id="Notices">
+      <tr><th class="nodelet_head">
+          <span class="title">Notices</span><a href="?node=About the Notices" class="nodelethead-annot"><sup>?</sup></a>
+      </th></tr>
+      <tr><td class="nodelet_body">
+
+<ul class="notices">
+</ul>
+
+<!-- recipient=1781 -->
+
+
+      </td></tr>
+
+    </tbody>
+
+
+</table>
+
+        <!-- End nodelets -->
+      </td>
+
+      <!--/nodelet handling code (monktainer)-->
+
+    </tr>
+  </table>
+</center>
+
+<!-- End main (monktainer)-->
+<br />
+<br />
+
+<div id="footer">
+          PerlMonks parthenogenetically spawned by <a href="?node=vroom">Tim Vroom</a>.<br/>
+      PerlMonks was recently assimilated by
+      <a href="http://www.perlfoundation.org">The Perl Foundation</a>.<br />
+      Beefy Boxes and Bandwidth Generously Provided by
+      <a href="http://promote.pair.com/direct.pl?perlmonks.org">
+      pair Networks</a>
+
+  <br/>Built with the <a href="http://perl.org">Perl programming language</a>.
+</div>
+<!-- /monktainer -->
+
+  
+  </body>    
+</html>
