@@ -232,7 +232,7 @@ int passwd_main(int argc, char **argv)
         if (in == NULL)
             goto end;
     }
-
+    
     if (mode == passwd_crypt)
         pw_maxlen = 8;
 
