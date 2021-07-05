@@ -1,0 +1,6 @@
+
+$Names_Keys = [];
+$Name = strtok(file_get_contents($file), "\n");
+while ($Name !== false) {
+    $Names_Keys[$Name] = 0;
+    $Name = strtok("\n");
