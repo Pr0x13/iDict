@@ -117,36 +117,12 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, array(
     'Connection: keep-alive'
 ));                                                
 
-$got = 0;
 $response = curl_exec($ch); 
+                                       
 
-$pos = 0;
-$pos = strpos($response, "delegates");
-if($pos > 0) {
-	$got = 1;
-	echo "<b>Password Found!!</b><br>";
-}
-         
-$pos = 0;                              
-$pos = strpos($response, "disabled");
-if($pos > 0) {
-	$got = 1;
-	echo "<b>Account Blocked</b><br>";
-	exit(0);
-}
-
-$pos = 0;
-$pos = strpos($response, "incorrectly");
-if($pos > 0) {
-	$got = 1;
-	echo "<b>Password Incorrect</b><br>";
-}
- 
-if($got == 0) {
-	echo $response;
-	//echo "<br><br>Headers Debugging Info:<br></br>";
-	//echo curl_getinfo($ch, CURLINFO_HEADER_OUT);
-}
+//echo $response; //contains response from server 
+//echo "<br><br>Headers Debugging Info:<br></br>";
+//echo curl_getinfo($ch, CURLINFO_HEADER_OUT);
 
 if ( $error = curl_error($ch) )
 echo 'ERROR: ',$error;
